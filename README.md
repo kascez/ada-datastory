@@ -12,6 +12,7 @@ It is believed that all people, regardless of their background, should have an i
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/people.png?raw=true" />
+  <em>image_caption</em>
 </p>
 
 ## Introduction

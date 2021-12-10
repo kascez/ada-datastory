@@ -118,6 +118,10 @@ We can see that the elderly have strong opinions about climate change and see th
 
 ## But, how different groups of people react to climate change?
 
+We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the following age cathegories into account: 31-45, 46-65 and 66+. The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. It turned out after the propensity score matching that distribution of sentiment scores had changed just slightly, telling that age does not have influence on what opinion people have on climate change.
+
+
+
 ## Sentiment Analysis : How climate change is being perceived by the world 
 
 Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the global perception of climate change among people.

@@ -16,9 +16,6 @@ It is believed that all people, regardless of their background, should have an i
 To understand who speaks and what is said about this topic in the media, we used Quotebank, an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with "climate change" and "global warming" in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. 
 
 
-> Insert a quote like this
-
-
 ## Research questions
 
 1. What political parties have talked the most about climate change in the media?

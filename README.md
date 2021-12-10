@@ -81,7 +81,23 @@ For a not that developed part of Europe, we collected the opinions of speakers f
 
 > Today we are moving to address EU concerns in the area of migration, make sure that consumers are better protected when they choose insurance products, and deliver on the EU's commitment to fight climate change and improve air quality.
 
-> We look forward to participating constructively in this consultation in the hope that a final set of guidelines, based on scientific evidence, can find a more appropriate balance between the concerns of those opposed to wind farms and the need to take action on climate change. 
+> We look forward to participating constructively in this consultation in the hope that a final set of guidelines, based on scientific evidence, can find a more appropriate balance between the concerns of those opposed to wind farms and the need to take action on climate change.
+
+### ... and in the countries of Eastern Europe?
+
+This part of Europe has also been seen as less-developed that the rest. Their heavy metal industries, gas production, and factories are great pollutors of the air and water, thus, they are an enemy that affects the climate change. Speakers from Russia, Poland, Slovakia, Czech Republic, Belarus, Moldova, Ukraine, and Hungary gave their opinions about climate change, so we used them to point out the main ideas. Some of them were:
+
+> Our ability to personally address the issue of climate change will determine the quality of life for all people on the planet as well as economic growth and sustainable social development worldwide.
+
+> It became clear that the climate is a complicated system and that, so far, the evidence presented for the need to 'fight' global warming was rather unfounded
+
+### What are the beliefs in the land down under?
+
+By looking at more than 10000 quotes by speakers from Australia, we can see that climate change is a burning topic for the Aussies. Some of the main statements that were extracted from their quotes are:
+
+> What we don't need is a government that won't act on climate change and won't allocate any new funds to protect the Reef.
+
+> At the same time, the science is getting clearer and the impacts of climate change are starting to unfold before our eyes.
 
 ## But, how different groups of people react to climate change?
 

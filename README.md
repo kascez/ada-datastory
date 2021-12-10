@@ -118,7 +118,11 @@ We can see that the elderly have strong opinions about climate change and see th
 
 ## But, how different groups of people react to climate change?
 
-We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the following age cathegories into account: 31-45, 46-65 and 66+. The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. It turned out after the propensity score matching that distribution of sentiment scores had changed just slightly, telling that age does not have influence on what opinion people have on climate change.
+We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the following age cathegories as observed covariate: 31-45, 46-65 and 66+. The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. 
+
+Firstly, we analysed the sentiment score distributions of countries in mentioned pairs and analyzed the number of people in all age categories. It could have been seen that category '46-55' outnumber the other two cathegories in Belgium, Indonesia and Finland, whereas in Chile the dominant cathegory is '66+'. After, we used logistic regression to estimate the propensity scorea for all points. Then we used the propensity score to match each speaker from the first country in the pair with exactly one speaker from the second country in the pair, by trying to maximize the similarity between matched speakers, which is captured by their propensity scores. Lastly, we compared the outcomes for two countries as well as distributions of sentiment scores, but now only for matched speakers.
+
+It turned out after the propensity score matching, in cases of all country pairs, that distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change.
 
 
 

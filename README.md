@@ -18,10 +18,6 @@ To understand who speaks and what is said about this topic in the media, we used
 
 > Insert a quote like this
 
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/people.png?raw=true" />
-  <figcaption>This is my caption text.</figcaption>
-</p>
 
 ## Research questions
 

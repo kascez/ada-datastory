@@ -99,6 +99,23 @@ By looking at more than 10000 quotes by speakers from Australia, we can see that
 
 > At the same time, the science is getting clearer and the impacts of climate change are starting to unfold before our eyes.
 
+### And on the other side of the world, what do people from the USA say?
+
+The USA have proven to be one of the most active allies in the battle against climate change. Since the number of quotes made by speakers from the USA outnumbered every other country among our data, we drawn some of the most popular idea between them:
+
+> We agree with the consensus of scientific experts who note that without drastic action from everyone -- governments, companies and all of us as individuals -- adapting to the impact of climate change in the future will be far more difficult and costly, taking a toll on our supply chains, our business, and more importantly, the lives of everyone involved.
+
+### Is the climate change concerning the elderly population?
+
+Even though climate change and global warming was not so popular when our grandparents were young, we still want to summarize opinion of the speakers that have more than 80 years.
+
+> We stand in solidarity with those most affected by climate change -- often the most poor and vulnerable -- and call for the next Government to urgently stop contributing to climate change, and play their part in creating a just world for future generations.
+
+> I think in some ways the non-scientific message from this is that climate change, or climate sensitivity, is large enough to need action, but not so large that it's too late to do anything
+
+We can see that the elderly have strong opinions about climate change and see the urge to fight it, as they want to leave the planet Earth a nice place to live for the next generations.
+
+
 ## But, how different groups of people react to climate change?
 
 ## Sentiment Analysis : How climate change is being perceived by the world 

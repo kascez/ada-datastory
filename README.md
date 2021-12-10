@@ -66,6 +66,12 @@ Thanks to Wikidata, we also have information about the age and the political par
 
 ## But, how different groups of people react to climate change?
 
+## Sentiment Analysis : How climate change is being perceived by the world 
+
+Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the global perception of climate change among people.
+
+TO do so, we will use the library Afinn
+
 ## Who denies climate change?
 
 Some people doubt the scientific consensus around climate change. It could be about the reality of warming, about the fact it is caused by humans, or about its effect on nature and humanity. Those persons have, of course, a high tendency not to take decisions in favor of reducing our greenhouse gas emissions. We wanted to know what were the age categories and the political parties that deny the most climate change in the media the five last years. 

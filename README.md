@@ -55,7 +55,33 @@ Thanks to Wikidata, we also have information about the age and the political par
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/party.png?raw=true" height="230" />
 </p>
 
-## General opinion about climate change (Text Summarization part)
+## General opinion about climate change
+
+Diving deeply into the analysis, we wanted to see if there is a common opinion expressed by speakers from certain regions.
+
+### How island countries feel about climate change?
+
+From the dataset, we selected the climate change quotes from speakers that are from the followig island countries: Maldives, Jamaica, Cuba, Dominican Republic, The Bahamas, Barbados, Mauritius, Tuvalu, Madagascar, Sri Lanka, Indonesia, Haiti, Seychelles, and Iceland. Because of the water level rising and the fact of these countries being isolated from the continental parts, we had a reason to believe that they had strong opinions abouut climate change. By summarizing more than 1000 quotations from these countries, we have extracted the following quotes as the most important and most repeating:
+
+> This is particularly important for us as a small island developing State, given that climate change persistently threatens our development and even our existence.
+
+> I think it's this lack of strong international action that concerns us, and that's very much true in the area of climate change as well.
+
+### Statements from the Baltic countries
+
+The Baltic countries have been very much involved in the battle agaings the climate change for several years. We can many activist, such as Greta Thunberg, fighting against this burning worldwide problem. Here we presented the summarized 1073 opinions about climate change, stated by people from Sweeden, Finland, Lathvia, Lithuania and Estonia. 
+
+> The rapidly growing demands to improve sustainability and saving the environment are opportunities for Northeastern students to become a leading pioneer with realistic answers on how to reduce Global Warming and climate change in the next three to five years, rather than a seemingly unsolvable problem at this time.
+
+> Climate change must now be regarded as one of the most significant challenges to people's health and well-being.
+
+### And how does the situation look at the Balkans?
+
+For a not that developed part of Europe, we collected the opinions of speakers from Slovenia, Croatia, North Macedonia, Romania, Bulgaria, Bosnia and Herzegovina, Greece, Albania and Serbia. The 184 quotes from this region provided us with the following summarization.
+
+> Today we are moving to address EU concerns in the area of migration, make sure that consumers are better protected when they choose insurance products, and deliver on the EU's commitment to fight climate change and improve air quality.
+
+> We look forward to participating constructively in this consultation in the hope that a final set of guidelines, based on scientific evidence, can find a more appropriate balance between the concerns of those opposed to wind farms and the need to take action on climate change. 
 
 ## But, how different groups of people react to climate change?
 

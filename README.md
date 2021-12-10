@@ -1,5 +1,9 @@
 # The (under)talked problem of Climate Change
 
+<p align="center">
+  <img src="https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg" alt="Climate change"/>
+</p>
+
 ## Introduction
 *"We have a single mission: to protect and hand on the planet to the next generation."* - Francois Hollande
 
@@ -18,6 +22,16 @@ To understand who speaks and what is said about this topic in the media, we used
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/people.png?raw=true" />
   <figcaption>This is my caption text.</figcaption>
 </p>
+
+## Research questions
+
+1. What political parties have talked the most about climate change in the media?
+2. Can we make a statement about the diversity between left-wing, center, and right-wing parties' quotes about climate change?
+3. Does the age of the speaker cause a difference in the attitude and concerns one has about climate change?
+4. How is climate change discussed among people of different nationalities all around the globe?
+5. Do people from one region of the world have different opinions about climate change than the ones from other regions?
+6. What are the biggest concerns about climate change in the world as shown in the media?
+7. Do different groups of people (based on their age, nationality, and political party) have positive, neutral, or negative statements about climate change?
 
 ## Who talks about climate change?
 

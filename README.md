@@ -59,7 +59,7 @@ Thanks to Wikidata, we also have information about the age and the political par
 
 Diving deeply into the analysis, we wanted to see if there is a common opinion expressed by speakers from certain regions.
 
-### How island countries feel about climate change?
+**How island countries feel about climate change?**
 
 From the dataset, we selected the climate change quotes from speakers that are from the followig island countries: Maldives, Jamaica, Cuba, Dominican Republic, The Bahamas, Barbados, Mauritius, Tuvalu, Madagascar, Sri Lanka, Indonesia, Haiti, Seychelles, and Iceland. Because of the water level rising and the fact of these countries being isolated from the continental parts, we had a reason to believe that they had strong opinions abouut climate change. By summarizing more than 1000 quotations from these countries, we have extracted the following quotes as the most important and most repeating:
 
@@ -67,7 +67,7 @@ From the dataset, we selected the climate change quotes from speakers that are f
 
 > I think it's this lack of strong international action that concerns us, and that's very much true in the area of climate change as well.
 
-### Statements from the Baltic countries
+**Statements from the Baltic countries**
 
 The Baltic countries have been very much involved in the battle agaings the climate change for several years. We can many activist, such as Greta Thunberg, fighting against this burning worldwide problem. Here we presented the summarized 1073 opinions about climate change, stated by people from Sweeden, Finland, Lathvia, Lithuania and Estonia. 
 
@@ -75,7 +75,7 @@ The Baltic countries have been very much involved in the battle agaings the clim
 
 > Climate change must now be regarded as one of the most significant challenges to people's health and well-being.
 
-### And how does the situation look at the Balkans?
+**And how does the situation look at the Balkans?**
 
 For a not that developed part of Europe, we collected the opinions of speakers from Slovenia, Croatia, North Macedonia, Romania, Bulgaria, Bosnia and Herzegovina, Greece, Albania and Serbia. The 184 quotes from this region provided us with the following summarization.
 
@@ -83,7 +83,7 @@ For a not that developed part of Europe, we collected the opinions of speakers f
 
 > We look forward to participating constructively in this consultation in the hope that a final set of guidelines, based on scientific evidence, can find a more appropriate balance between the concerns of those opposed to wind farms and the need to take action on climate change.
 
-### ... and in the countries of Eastern Europe?
+**... and in the countries of Eastern Europe?**
 
 This part of Europe has also been seen as less-developed that the rest. Their heavy metal industries, gas production, and factories are great pollutors of the air and water, thus, they are an enemy that affects the climate change. Speakers from Russia, Poland, Slovakia, Czech Republic, Belarus, Moldova, Ukraine, and Hungary gave their opinions about climate change, so we used them to point out the main ideas. Some of them were:
 
@@ -91,7 +91,7 @@ This part of Europe has also been seen as less-developed that the rest. Their he
 
 > It became clear that the climate is a complicated system and that, so far, the evidence presented for the need to 'fight' global warming was rather unfounded
 
-### What are the beliefs in the land down under?
+**What are the beliefs in the land down under?**
 
 By looking at more than 10000 quotes by speakers from Australia, we can see that climate change is a burning topic for the Aussies. Some of the main statements that were extracted from their quotes are:
 
@@ -99,13 +99,13 @@ By looking at more than 10000 quotes by speakers from Australia, we can see that
 
 > At the same time, the science is getting clearer and the impacts of climate change are starting to unfold before our eyes.
 
-### And on the other side of the world, what do people from the USA say?
+**...And on the other side of the world, what do people from the USA say?**
 
 The USA have proven to be one of the most active allies in the battle against climate change. Since the number of quotes made by speakers from the USA outnumbered every other country among our data, we drawn some of the most popular idea between them:
 
 > We agree with the consensus of scientific experts who note that without drastic action from everyone -- governments, companies and all of us as individuals -- adapting to the impact of climate change in the future will be far more difficult and costly, taking a toll on our supply chains, our business, and more importantly, the lives of everyone involved.
 
-### Is the climate change concerning the elderly population?
+**Is the climate change concerning the elderly population?**
 
 Even though climate change and global warming was not so popular when our grandparents were young, we still want to summarize opinion of the speakers that have more than 80 years.
 

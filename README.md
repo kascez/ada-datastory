@@ -118,12 +118,29 @@ We can see that the elderly have strong opinions about climate change and see th
 
 ## But, how different groups of people react to climate change?
 
+**Experiment with matching the speakers from different region by their age**
+
 We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the following age cathegories as observed covariate: 31-45, 46-65 and 66+. The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. 
 
 Firstly, we analysed the sentiment score distributions of countries in mentioned pairs and analyzed the number of people in all age categories. It could have been seen that category '46-55' outnumber the other two cathegories in Belgium, Indonesia and Finland, whereas in Chile the dominant cathegory is '66+'. After, we used logistic regression to estimate the propensity scorea for all points. Then we used the propensity score to match each speaker from the first country in the pair with exactly one speaker from the second country in the pair, by trying to maximize the similarity between matched speakers, which is captured by their propensity scores. Lastly, we compared the outcomes for two countries as well as distributions of sentiment scores, but now only for matched speakers.
 
 It turned out after the propensity score matching, in cases of all country pairs, that distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change.
 
+**Have the right-wing and left-wing parties different opinions about climate change?**
+
+Although right-wing and left-wing parties oppose each other in different categories, we wanted to check if there is a possibility that their opinions agree in terms of world-wide problems with a high risk - such as climate change. As the speakers from differently winged parties have different backgrounds, we have a reason to believe that there feelings about climate change would differ. 
+
+To be able to conduct this experiment and check whether we can not distinguish between parties' quotes, we chose Germany to be our country for the example. We classified more than 20 parties from Germany into three groups: the right-center party, the left-center party, and the undefined parties or the parties which wing could not be easily determined. In total, we had about 1000 quotes which will be used to train our fasttext classifying model. After preprocessing the text, we prepared the quotes for the classifying. The results for all three groups can be observed in the following table:
+
+|              	| precision 	| recall 	| F1-score 	|
+|--------------	|-----------	|--------	|----------	|
+| left-center  	| 0.333     	| 0.259  	| 0.291    	|
+| right-center 	| 0.434     	| 0.655  	| 0.522    	|
+| undefined    	| 0.263     	| 0.113  	| 0.158    	|
+
+With the imbalance that we have in our data, we decided to focus on precision, recall, and F1-score for testing our claim. In the table above we can observe pretty much bad classifying results with most of the evaluation metrics being below 0.5. Personally, these results make us happy. By letting a very strong model perform this task and obtaining such bad results, we can say that it had a very hard time distinguishing between quotes from speakers that belong to a certain type of political party. We can say that there is a high chance that the speakers agree in terms of climate change, and that their quotes are similar. 
+
+This analysis prove the equality that political parties have when battling big threats, and climate change is, undoubtedly, one of them.
 
 
 ## Sentiment Analysis : How climate change is being perceived by the world 

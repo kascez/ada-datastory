@@ -115,6 +115,31 @@ Even though climate change and global warming was not so popular when our grandp
 
 We can see that the elderly have strong opinions about climate change and see the urge to fight it, as they want to leave the planet Earth a nice place to live for the next generations.
 
+## Sentiment Analysis : How climate change is being perceived by the world 
+
+Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the global perception of climate change among people.
+
+TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. First of all, let's focus on the evolution of the mentality through the years. 
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />
+</p>
+
+## Who denies climate change?
+
+Some people doubt the scientific consensus around climate change. It could be about the reality of warming, about the fact it is caused by humans, or about its effect on nature and humanity. Those persons have, of course, a high tendency not to take decisions in favor of reducing our greenhouse gas emissions. We wanted to know what were the age categories and the political parties that deny the most climate change in the media the five last years. 
+
+To train a machine-learning algorithm to detect the quotes about global warming denial, we labeled manually around 1000 randomly chosen quotes from the dataset. On 962 citations, only 23 were labeled positively as climate change denial. Because of this small number, we decided to add 38 climate skepticism quotes from another dataset. That brought our labeled set to exactly 1000 quotes. 
+
+To be able to train algorithms on the quotations, we tokenized them, removed the stop words, transformed them in term frequency-inverse document frequency (TF-IDF) matrix, and kept the 20 top "concepts" using singular value decomposition. We split the data between a train and a test set, and we trained multiple times several machine learning algorithms to see which one had the best results. We tried logistic regression, a random forest classifier, a K-nearest-neighbor classifier, and a linear neural network. Our results were not very good. The models we tried had some difficulties finding the climate change denial quotes. They missed a lot of them (poor recall). However, the precision was not so bad (between 0.5 and 1 depending on the model). To have better results, more quotes should have been labeled but we did not have the time to do it. To be able to compare climate change denial between two categories of population, precision is the most important because it is better to know that true climate skeptical quotes have been selected even if some have been missed. Because of that, we decided to keep the logistic regression model that had the most consistent high precision in our runs. Finally, we labeled automatically all the quotes of our dataset with this model. 
+
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/denial_age.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/denial_party.png?raw=true" height="230" />
+</p>
+
+With our automatically labeled data, we computed the percentage of climate change denial quotes in the different age categories and in the different US political parties. We see that people above 66 years deny a lot more climate change when they talk in the media than the other age categories. For the US political parties, the Republican party members seem to deny a lot more climate change than the Democrat party members. These results look coherent with their political lines. However, a small party, the Independence Party of America, seems to outperform the Republicans on denying global warming. 
 
 ## But, how different groups of people react to climate change?
 
@@ -141,33 +166,6 @@ To be able to conduct this experiment and check whether we can not distinguish b
 With the imbalance that we have in our data, we decided to focus on precision, recall, and F1-score for testing our claim. In the table above we can observe pretty much bad classifying results with most of the evaluation metrics being below 0.5. Personally, these results make us happy. By letting a very strong model perform this task and obtaining such bad results, we can say that it had a very hard time distinguishing between quotes from speakers that belong to a certain type of political party. We can say that there is a high chance that the speakers agree in terms of climate change, and that their quotes are similar. 
 
 This analysis prove the equality that political parties have when battling big threats, and climate change is, undoubtedly, one of them.
-
-
-## Sentiment Analysis : How climate change is being perceived by the world 
-
-Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the global perception of climate change among people.
-
-TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. First of all, let's focus on the evolution of the mentality through the years. 
-
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />
-</p>
-
-## Who denies climate change?
-
-Some people doubt the scientific consensus around climate change. It could be about the reality of warming, about the fact it is caused by humans, or about its effect on nature and humanity. Those persons have, of course, a high tendency not to take decisions in favor of reducing our greenhouse gas emissions. We wanted to know what were the age categories and the political parties that deny the most climate change in the media the five last years. 
-
-To train a machine-learning algorithm to detect the quotes about global warming denial, we labeled manually around 1000 randomly chosen quotes from the dataset. On 962 citations, only 23 were labeled positively as climate change denial. Because of this small number, we decided to add 38 climate skepticism quotes from another dataset. That brought our labeled set to exactly 1000 quotes. 
-
-To be able to train algorithms on the quotations, we tokenized them, removed the stop words, transformed them in term frequency-inverse document frequency (TF-IDF) matrix, and kept the 20 top "concepts" using singular value decomposition. We split the data between a train and a test set, and we trained multiple times several machine learning algorithms to see which one had the best results. We tried logistic regression, a random forest classifier, a K-nearest-neighbor classifier, and a linear neural network. Our results were not very good. The models we tried had some difficulties finding the climate change denial quotes. They missed a lot of them (poor recall). However, the precision was not so bad (between 0.5 and 1 depending on the model). To have better results, more quotes should have been labeled but we did not have the time to do it. To be able to compare climate change denial between two categories of population, precision is the most important because it is better to know that true climate skeptical quotes have been selected even if some have been missed. Because of that, we decided to keep the logistic regression model that had the most consistent high precision in our runs. Finally, we labeled automatically all the quotes of our dataset with this model. 
-
-
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/denial_age.png?raw=true" height="230" />
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/denial_party.png?raw=true" height="230" />
-</p>
-
-With our automatically labeled data, we computed the percentage of climate change denial quotes in the different age categories and in the different US political parties. We see that people above 66 years deny a lot more climate change when they talk in the media than the other age categories. For the US political parties, the Republican party members seem to deny a lot more climate change than the Democrat party members. These results look coherent with their political lines. However, a small party, the Independence Party of America, seems to outperform the Republicans on denying global warming. 
 
 ## Is climate change receiving the attention it deserves?
 

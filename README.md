@@ -151,3 +151,7 @@ To be able to train algorithms on the quotations, we tokenized them, removed the
 </p>
 
 With our automatically labeled data, we computed the percentage of climate change denial quotes in the different age categories and in the different US political parties. We see that people above 66 years deny a lot more climate change when they talk in the media than the other age categories. For the US political parties, the Republican party members seem to deny a lot more climate change than the Democrat party members. These results look coherent with their political lines. However, a small party, the Independence Party of America, seems to outperform the Republicans on denying global warming. 
+
+## Is climate change receiving the attention it deserves?
+
+Throughout this analysis, we proved the great media attention that climate change holds down. No matter the age you are, the region you are from, or the political party you choose to be in, one thing is certain - climate change is happening and it is our job to address it in a serious manner. Even though a speaker from our dataset has different beliefs than the rest, we can see that his opinion about global warming does not vary much from other speakers. 

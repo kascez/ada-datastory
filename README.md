@@ -67,6 +67,8 @@ From the dataset, we selected the climate change quotes from speakers that are f
 
 > I think it's this lack of strong international action that concerns us, and that's very much true in the area of climate change as well.
 
+The island countries have proven their fear of climate change. They are the ones that have higher risk of being affected by water levels rising, tsunamis, and earthquakes. All these dangers could strike the island countries earlier if the whole planet does not react faster.
+
 **Statements from the Baltic countries**
 
 The Baltic countries have been very much involved in the battle agaings the climate change for several years. We can many activist, such as Greta Thunberg, fighting against this burning worldwide problem. Here we presented the summarized 1073 opinions about climate change, stated by people from Sweeden, Finland, Lathvia, Lithuania and Estonia. 
@@ -75,6 +77,8 @@ The Baltic countries have been very much involved in the battle agaings the clim
 
 > Climate change must now be regarded as one of the most significant challenges to people's health and well-being.
 
+The warmer winters without snow, the climate of the Baltic countries is changing. Although these countries can be observed as developed and they fight against climate change, it is the rest of the world's actions that they are afraid of.
+
 **And how does the situation look at the Balkans?**
 
 For a not that developed part of Europe, we collected the opinions of speakers from Slovenia, Croatia, North Macedonia, Romania, Bulgaria, Bosnia and Herzegovina, Greece, Albania and Serbia. The 184 quotes from this region provided us with the following summarization.
@@ -82,6 +86,8 @@ For a not that developed part of Europe, we collected the opinions of speakers f
 > Today we are moving to address EU concerns in the area of migration, make sure that consumers are better protected when they choose insurance products, and deliver on the EU's commitment to fight climate change and improve air quality.
 
 > We look forward to participating constructively in this consultation in the hope that a final set of guidelines, based on scientific evidence, can find a more appropriate balance between the concerns of those opposed to wind farms and the need to take action on climate change.
+
+The Balkans are considered to have problems of different kind and they are not so much interested in the problem of climate change. Most lately, as they are being more and more included into European problems and focused towards the European Union, people from this region have given us strong statements that backs up their climate change concerns.
 
 **... and in the countries of Eastern Europe?**
 
@@ -98,6 +104,8 @@ By looking at more than 10000 quotes by speakers from Australia, we can see that
 > What we don't need is a government that won't act on climate change and won't allocate any new funds to protect the Reef.
 
 > At the same time, the science is getting clearer and the impacts of climate change are starting to unfold before our eyes.
+
+Australia is definitely one of the most impacted countries by climate change. We all have witnessed the wildifires that occured in this country in 2020 which was the result of very high temperatures.
 
 **...And on the other side of the world, what do people from the USA say?**
 

@@ -122,7 +122,15 @@ Before going much deeper into climate denial, we can run a sentiment analysis so
 TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture.PNG" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG" height="300" />
 </p>
 
 ## Who denies climate change?

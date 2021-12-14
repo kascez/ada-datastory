@@ -139,24 +139,25 @@ TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for 
 </p>
 
 
-
-
-
 First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />
 </p>
 
+As you can see in the photos below, no truth stands out of the analysis. In fact, what can be deduce is that we already knew that climate change was a real issue. Things started to be done before and then we can find some pretty good result leading to a stable quantity of positive over negative through the years : 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture.PNG" height="300" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG" height="300" />
-</p>
+However, we can see that in 2019 we had a lot of quote about climate change but can we really analyse those data. Indeed, we can't know if it comes from QuoteBank or if it is a general fact. It goes the same with 2020, which had an very low amount of quote. 
+
+What seems to be a good conclusion is that the ratio remains the same for each years. Why ? It might come from the fact that every time we find some good result in climate change, there is a downside which compensate the good things. The quantity of negative quote trully need to downsize, as we can see in the first example of negative quote, a lot of disaster are still happening. 
+
+The question that can be asked now is to know wether it is the younger or not that are optimistic (positive) about climate change. For this we have done another bar plot that represent the quantity of negative or positive quote according to the age of the author by category. 
 
 <p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG" height="300" />
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG" height="300" />
 </p>
 

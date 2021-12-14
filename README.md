@@ -185,8 +185,6 @@ We were further interested to see whether the age makes influence on what attitu
 
 Firstly, we analysed the sentiment score distributions of countries in mentioned pairs and analyzed the number of people in all age categories. It could have been seen that category '46-55' outnumber the other two cathegories in Belgium, Indonesia and Finland, whereas in Chile the dominant cathegory is '66+'. After, we used logistic regression to estimate the propensity scorea for all points. Then we used the propensity score to match each speaker from the first country in the pair with exactly one speaker from the second country in the pair, by trying to maximize the similarity between matched speakers, which is captured by their propensity scores. Lastly, we compared the outcomes for two countries as well as distributions of sentiment scores, but now only for matched speakers.
 
-It turned out after the propensity score matching, in cases of all country pairs, that distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change.
-
 Considering the first pair, we have opted for Germany and France, since they are the two most populated European countries, are similar when it comes to the development level. On the graph below, showing age distribution with respect to the number of quotes of speakers cominig from these two countries, it could be seen that there is a difference between them when it comes to the number of quotes stated by people of different age.
 
 <p align="center">
@@ -221,6 +219,8 @@ Motivated with analysing different cultures and the effect the environment has o
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC1.png?raw=true" height="230" />
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC3.png?raw=true" height="230" />
 </p>
+
+Finally, it turned out that after the propensity score matching, in cases of all country pairs, distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change.
 
 **Have the right-wing and left-wing parties different opinions about climate change?**
 

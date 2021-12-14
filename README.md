@@ -187,6 +187,41 @@ Firstly, we analysed the sentiment score distributions of countries in mentioned
 
 It turned out after the propensity score matching, in cases of all country pairs, that distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change.
 
+Considering the first pair, we have opted for Germany and France, since they are the two most populated European countries, are similar when it comes to the development level. On the graph below, showing age distribution with respect to the number of quotes of speakers cominig from these two countries, it could be seen that there is a difference between them when it comes to the number of quotes stated by people of different age.
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF2.PNG" height="300" />
+</p>
+
+On the lefthand side it can be seen the sentiment score distribution before propensity score matching and of the righthand side is the distribution after the matching was performed.
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF1.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF3.png?raw=true" height="230" />
+</p>
+
+Secondly, having in mind the indisputable geographical, cultural and divelopmental 'distance',the second chosen pair was Belgium and Indonesia. First graph presented below is again showing the age distribution of the the speakers from these countries, followed by distribution of the sentiment scores before and after the matching was done, on the left and right side respectively.
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI2.PNG" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI1.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI3.png?raw=true" height="230" />
+</p>
+
+Motivated with analysing different cultures and the effect the environment has on the individual opinion, the last pair chosen of this part of the analysis was Chile-Finland. Following are the results.
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC2.PNG" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC1.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC3.png?raw=true" height="230" />
+</p>
+
 **Have the right-wing and left-wing parties different opinions about climate change?**
 
 Although right-wing and left-wing parties oppose each other in different categories, we wanted to check if there is a possibility that their opinions agree in terms of world-wide problems with a high risk - such as climate change. As the speakers from differently winged parties have different backgrounds, we have a reason to believe that there feelings about climate change would differ. 

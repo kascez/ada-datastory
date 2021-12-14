@@ -127,7 +127,22 @@ We can see that the elderly have strong opinions about climate change and see th
 
 Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the global perception of climate change among people.
 
-TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. First of all, let's focus on the evolution of the mentality through the years. 
+TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. Here is two examples of positive and negative thoughts about climate change.
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive.PNG" height="80" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative.PNG" height="80" />
+</p>
+
+
+
+
+
+First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />

@@ -161,7 +161,11 @@ The question that can be asked now is to know wether it is the younger or not th
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG" height="300" />
 </p>
 
-Here, we can see quite a large difference within the categories. At first sight, we can say that the youth quantity (category 0-30yo) is not relevant for the simple fact that we are working on quote of reknowned people and few young people are really known by wikipedia. Nonetheless, we can deduce something very interesting from those graphs : The 3
+Here, we can see quite a large difference within the categories. At first sight, we can say that the youth quantity (category 0-30yo) is not relevant for the simple fact that we are working on quote of reknowned people and few young people are really known by wikipedia. Nonetheless, we can deduce something very interesting from those graphs : The 31-45 are not very reprensented in this sentiment analysis but can we infer that they are not aware of climate change and/or they don't care ? Hell, No ! To go deeper in this analysis, one can do real statistic on enough unbiased random people. However, it seems that inside the famous people family the 31-45 people do not have a sharp opinion (3000 negative VS 4000 positive). 
+
+Finally, the most interesting fact that stands out from those two graphs is the difference between the 46-65 and the 66+. In addition to the fact that they are well represented inside the famous people, the ration seems to be quite relevant indeed. With a 16000 positive quotes and 10000 negative ones, that-is-to-say a ratio of 1,6, the 46-65 are very much ahead of the 66+, with a ratio of 12000/13000 ~ 0,923, we can deduce that famous people that are still working are more concerned about climate change in a positive way (optimistic maybe?). One of the reason we can evoque is that people from those ages are still politicians or actors or journalists, etc and are really dealing with those kind of climate change problems. 
+
+The final words for this section is that we can't be categorical over this dataset as it is really biased. 
 
 ## Who denies climate change?
 

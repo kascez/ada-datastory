@@ -226,7 +226,7 @@ Motivated with analysing different cultures and the effect the environment has o
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC3.png?raw=true" height="230" />
 </p>
 
-Finally, it turned out that after the propensity score matching, in cases of all country pairs, distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change. 
+Finally, it turned out that after the propensity score matching, in cases of all country pairs, distribution of sentiment scores had changed just slightly, telling that the observed covariate age does not have influence on what opinion people have on climate change. Young and old actully share the common opinion about the climate change!
 
 **Have the right-wing and left-wing parties different opinions about climate change?**
 

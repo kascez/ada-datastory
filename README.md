@@ -130,12 +130,12 @@ Before going much deeper into climate denial, we can run a sentiment analysis so
 TO do so, we will use the library Afinn. Afinn is a Wordlist-based approach for sentiment analysis that gives a score to sentence. If the score is high then your sentence tends to be positive. If not, that means your sentence is negative. Considering this fact, we have categorized all the quotes into three main groups : POSITIVE, NEUTRAL AND NEGATIVE. The result that we find are quite interesting. Here is two examples of positive and negative thoughts about climate change.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive.PNG" height="80" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive5.PNG" height="150" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative.PNG" height="80" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative5.PNG" height="150" />
 </p>
 
 
@@ -160,6 +160,8 @@ The question that can be asked now is to know wether it is the younger or not th
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG" height="300" />
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG" height="300" />
 </p>
+
+Here, we can see quite a large difference within the categories. At first sight, we can say that the youth quantity (category 0-30yo) is not relevant for the simple fact that we are working on quote of reknowned people and few young people are really known by wikipedia. Nonetheless, we can deduce something very interesting from those graphs : The 3
 
 ## Who denies climate change?
 

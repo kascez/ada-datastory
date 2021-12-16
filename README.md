@@ -190,11 +190,11 @@ With our automatically labeled data, we computed the percentage of climate chang
 
 **Experiment with matching the speakers from different region by their age**
 
-We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the following age cathegories as observed covariate: **17-30, 31-45, 46-65 and 66+**. The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. 
+We were further interested to see whether the age makes influence on what attitude do speakers have towards the climate change in different countries. In order to analyze the previously mentioned, we have conducted an observational study by taking the age as observed covariate (**17-30, 31-45, 46-65 and 66+**). The study was done by making the comperison between following countries: Germany and France, Belgium and Indonesia, Finland and Chile. 
 
-Firstly, we analysed the **sentiment score distributions** of countries in mentioned pairs and analyzed the number of people in all age categories. It could have been seen that category '46-55' outnumber the other two cathegories in Germany, Belgium, Indonesia and Finland, whereas in Chile the dominant cathegory is '66+'. In France, there was approximately the same number of speakers belonging to the categories '31-45' and 46-65. After, we used logistic regression to **estimate the propensity scores** for all speakers. Then we used the propensity score to **match** each speaker from the first country in the pair with exactly one speaker from the second country in the pair, by trying to **maximize the similarity** between matched speakers, which is captured by their propensity scores. Lastly, we compared the outcomes for two countries as well as distributions of sentiment scores, but now only for matched speakers.
+Firstly, we analysed the **sentiment score distributions** of countries in mentioned pairs and analyzed the number of people of all ages. It could have been seen that category '46-55' outnumber the other two cathegories in Germany, Belgium, Indonesia and Finland, whereas in Chile the dominant cathegory is '66+'. In France, there was approximately the same number of speakers belonging to the categories '31-45' and 46-65. After, we used logistic regression to **estimate the propensity scores** for all speakers. Then we used the propensity score to **match** each speaker from the first country in the pair with exactly one speaker from the second country in the pair, by trying to **maximize the similarity** between matched speakers, which is captured by their propensity scores. Lastly, we compared the outcomes for two countries as well as distributions of sentiment scores, but now only for matched speakers.
 
-Considering the first pair, we have opted for **Germany and France**, since they are the two most populated European countries, are similar when it comes to the development level. On the graph below, showing age distribution with respect to the number of quotes of speakers cominig from these two countries, it could be seen that there is a difference between them when it comes to the number of quotes stated by people of different age.
+Considering the first pair, we have opted for **Germany and France**, since they are the two most populated European countries, are similar when it comes to the development level. On the graph below, showing age distribution with respect to the number of quotes of speakers coming from these two countries, it could be seen that there is a difference between them when it comes to the age of speakers. Therefore, propensity score matching has a posibility to modify the distribution of propensity scores.
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF2.png?raw=true" height="230" />
@@ -207,7 +207,7 @@ On the lefthand side it can be seen the sentiment score distribution before prop
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF3.png?raw=true" height="230" />
 </p>
 
-Secondly, having in mind the indisputable geographical, cultural and divelopmental 'distance',the second chosen pair was **Belgium and Indonesia**. First graph presented below is again showing the age distribution of the the speakers from these countries, followed by distribution of the sentiment scores before and after the matching was done, on the left and right side respectively.
+Secondly, having in mind the indisputable geographical, cultural and divelopmental 'distance',the second chosen pair was **Belgium and Indonesia**. First graph presented below is again showing the age distribution of speakers from these countries, followed by distribution of the sentiment scores before and after the matching was done, on the left and right side respectively.
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI2.png?raw=true" height="230" />
@@ -229,7 +229,7 @@ Motivated with analysing different cultures and the effect the environment has o
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC3.png?raw=true" height="230" />
 </p>
 
-Finally, it turned out that after the propensity score matching, in cases of all country pairs, distribution of sentiment scores had changed just slightly, telling that the observed covariate **age does not have influence on what opinion people have on climate change**. **Young and old might actully share the common opinion about the climate change!**
+Finally, it turned out that after the propensity score matching, in cases of all country pairs, distribution of sentiment scores has not changed significantly, telling that the observed covariate **age does not have influence on what opinion people have on climate change**.**
 
 **Have the right-wing and left-wing parties different opinions about climate change?**
 

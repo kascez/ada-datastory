@@ -132,25 +132,25 @@ Before going much deeper into climate denial, we can run a sentiment analysis so
 To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach for sentiment analysis that gives a **score** to sentence. If the score is high then your sentence tends to be **positive**. If not, that means your sentence is **negative**. Considering this fact, we have categorized all the quotes into three main groups : **POSITIVE, NEUTRAL AND NEGATIVE**. The result that we find are quite interesting. Here is two examples of positive and negative thoughts about climate change.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive5.PNG" height="150" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive5.PNG?raw=true" height="150" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative5.PNG" height="150" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative5.PNG?raw=true" height="150" />
 </p>
 
 
 First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG?raw=true" height="300" />
 </p>
 
 As you can see in the photos below, no truth stands out of the analysis. In fact, what can be deduce is that we already knew that climate change was a real issue. Things started to be done before and then we can find some pretty good result leading to a stable quantity of positive over negative through the years : 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture.PNG" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture.PNG?raw=true" height="300" />
 </p>
 
 However, we can see that in 2019 we had a lot of quote about climate change but can we really analyse those data. Indeed, we can't know if it comes from QuoteBank or if it is a general fact. It goes the same with 2020, which had an very low amount of quote. 
@@ -160,8 +160,8 @@ What seems to be a good conclusion is that the ratio remains the same for each y
 The question that can be asked now is to know wether it is the **younger** or not that are **optimistic** (positive) about climate change. For this we have done another bar plot that represent the quantity of negative or positive quote according to the age of the author by category. 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG" height="300" />
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG?raw=true" height="300" />
 </p>
 
 Here, we can see quite a large difference within the categories. At first sight, we can say that the youth quantity (category 0-30yo) is not relevant for the simple fact that we are working on quote of reknowned people and few young people are really known by wikipedia. Nonetheless, we can deduce something very interesting from those graphs : The 31-45 are not very reprensented in this sentiment analysis but can we infer that they are not aware of climate change and/or they don't care ? Hell, No ! To go deeper in this analysis, one can do real statistic on enough unbiased random people. However, it seems that inside the famous people family the 31-45 people do not have a sharp opinion (3000 negative VS 4000 positive). 
@@ -221,7 +221,7 @@ Secondly, having in mind the indisputable geographical, cultural and divelopment
 Motivated with analysing different cultures and the effect the environment has on the individual opinion, the last pair chosen of this part of the analysis was **Chile-Finland**. Following are the results.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC2.png?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC2.png?raw=true" height="230" />
 </p>
 
 <p align="center">

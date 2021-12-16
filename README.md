@@ -13,7 +13,7 @@ We will try, through this study, to conclude if we can **deny or not some prejud
 
 It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to **determine how different groups of people react to this threat**. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.
 
-To understand who speaks and what is said about this topic in the media, we used **Quotebank**, an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with **"climate change"** and **"global warming"** in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. This high number of quotes related to climate change and global warming in a data set of about 178 million quotes speakes about the importance of this topic and how it is necessary to address it in a suitable manner.
+To understand who speaks and what is said about this topic in the media, we used **Quotebank** [2], an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with **"climate change"** and **"global warming"** in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. This high number of quotes related to climate change and global warming in a data set of about 178 million quotes speakes about the importance of this topic and how it is necessary to address it in a suitable manner. 
 
 
 ## Research questions
@@ -44,7 +44,7 @@ To know who were the people that talked the most about global warming in the med
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/wordcloud.png?raw=true" width="400" />
 </p>
 
-Then, we asked ourselves **where these quotations came from**. To do this, we linked all the speakers of our global warming dataset to their nationality, thanks to **Wikidata**. The large majority of quotes come from the **United States of America** but there are also a lot of quotes from the **United Kingdom**, **Canada**, and **Australia**. That is what we expected because the data come from English news articles. However, we also have a few thousand quotes from big countries (China and India) and influential European countries like **Germany and France**. Below is presented a map in order to quickly visualize where our citations come from. 
+Then, we asked ourselves **where these quotations came from**. To do this, we linked all the speakers of our global warming dataset to their nationality, thanks to **Wikidata** [3]. The large majority of quotes come from the **United States of America** but there are also a lot of quotes from the **United Kingdom**, **Canada**, and **Australia**. That is what we expected because the data come from English news articles. However, we also have a few thousand quotes from big countries (China and India) and influential European countries like **Germany and France**. Below is presented a map in order to quickly visualize where our citations come from. 
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/map.png?raw=true" width="700" />
@@ -175,7 +175,7 @@ The final words for this section is that we cannot be categorical over this data
 
 Some people **doubt** the scientific consensus around climate change. It could be about the reality of warming, about the fact it is caused by humans, or about its effect on nature and humanity. Those persons have, of course, a high tendency not to take decisions in favor of reducing our greenhouse gas emissions. We wanted to know what were the age categories and the political parties that deny the most climate change in the media the five last years. 
 
-To train a machine-learning algorithm to detect the quotes about global warming denial, we labeled manually around 1000 randomly chosen quotes from the dataset. On 962 citations, only 23 were labeled positively as climate change denial. Because of this small number, we decided to add 38 climate skepticism quotes from another dataset. That brought our labeled set to exactly 1000 quotes. 
+To train a machine-learning algorithm to detect the quotes about global warming denial, we labeled manually around 1000 randomly chosen quotes from the dataset. On 962 citations, only 23 were labeled positively as climate change denial. Because of this small number, we decided to add 38 climate skepticism quotes from another dataset [4]. That brought our labeled set to exactly 1000 quotes. 
 
 To be able to train algorithms on the quotations, we tokenized them, removed the stop words, transformed them in term frequency-inverse document frequency (TF-IDF) matrix, and kept the 20 top "concepts" using singular value decomposition. We split the data between a train and a test set, and we trained multiple times several machine learning algorithms to see which one had the best results. We tried logistic regression, a random forest classifier, a K-nearest-neighbor classifier, and a linear neural network. Our results were not very good. The models we tried had some difficulties finding the climate change denial quotes. They missed a lot of them (poor recall). However, the precision was not so bad (between 0.5 and 1 depending on the model). To have better results, more quotes should have been labeled but we did not have the time to do it. To be able to compare climate change denial between two categories of population, precision is the most important because it is better to know that true climate skeptical quotes have been selected even if some have been missed. Because of that, we decided to keep the logistic regression model that had the most consistent high precision in our runs. Finally, we labeled automatically all the quotes of our dataset with this model. 
 
@@ -258,7 +258,9 @@ Throughout this analysis, we proved the great media attention that climate chang
 
 [2] Vaucher, T., Spitz, A., Catasta, M., West, R. (2021). Quotebank: A Corpus of Quotations from a Decade of News.
 
-[3]
+[3] https://www.wikidata.org/
+
+[4] https://skepticalscience.com/skepticquotes.php/debunking-climate-myths-from-politicians.html
 
 ## The Team
 

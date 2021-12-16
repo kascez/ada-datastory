@@ -13,7 +13,7 @@ We will try, through this study, to conclude if we can **deny or not some prejud
 
 It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to **determine how different groups of people react to this threat**. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.
 
-To understand who speaks and what is said about this topic in the media, we used **Quotebank**, an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with **"climate change"** and **"global warming"** in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. This high number of quotes related to climate change and global warming in a data set of about 178 million quotes speakes about the importance of this topic and how it is necessary to address it in a suitable manner. Furhtermore, we have to mention that all the quotes are on the English language, so most of our speakers are from the USA and the UK. Throghout our analysis, we will try to address the issue of imbalance of the speakers' nationalities in a suitable manner.
+To understand who speaks and what is said about this topic in the media, we used **Quotebank**, an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with **"climate change"** and **"global warming"** in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. This high number of quotes related to climate change and global warming in a data set of about 178 million quotes speakes about the importance of this topic and how it is necessary to address it in a suitable manner.
 
 
 ## Research questions
@@ -99,8 +99,6 @@ This part of Europe has also been seen as less-developed that the rest. Their he
 
 > It became clear that the climate is a complicated system and that, so far, the evidence presented for the need to 'fight' global warming was rather unfounded.
 
-The countries of the Easter Europe, even facing with lower income and being dependent on the industries that affect the climate, still have they place in fighting the global warming. They show great initiative in facing this problem with taking care of the quality of life for all people on the plane on one side, and worrying about the economy on the other.
-
 **What are the beliefs in the land down under?**
 
 By looking at more than 10000 quotes by speakers from **Australia**, we can see that climate change is a burning topic for the Aussies. Some of the main statements that were extracted from their quotes are:
@@ -131,7 +129,18 @@ We can see that the elderly have strong opinions about climate change and see th
 
 Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the **global perception of climate change among people**.
 
-To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach for sentiment analysis that gives a **score** to sentence. If the score is high then your sentence tends to be **positive**. If not, that means your sentence is **negative**. Considering this fact, we have categorized all the quotes into three main groups : **POSITIVE, NEUTRAL AND NEGATIVE**. The result that we find are quite interesting. Here is two examples of positive and negative thoughts about climate change.
+To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach for sentiment analysis that gives a **score** to sentence. If the score is high then your sentence tends to be **positive**. If not, that means your sentence is **negative**. Considering this fact, we have categorized all the quotes into three main groups : **POSITIVE, NEUTRAL AND NEGATIVE**. The result that we find are quite interesting. Here are examples of positive and negative thoughts about climate change.
+
+|    Index     	|    Quote	  | Category 	| Sentiment Score	|
+|---------------|-------------|-----------|-----------------|
+| 159 	|    We discussed our ambitious national efforts and goals to increase the use of clean and renewable energy. We also agreed to further enhance our excellent and innovative partnership in this area. I asked him to lead international efforts in making renewable energy more accessible and affordable to the world. President and I expressed hope for a successful Paris Conference on climate change this year	  	|  Positive 	|   19    	|
+| 347   	|  On Clean Energy and Climate Change, we are both committed to the 2015 Paris Agreement. Addressing climate change and promoting secure, affordable and sustainable supplies of energy are our shared priorities. We also reaffirmed our commitment to undertake mutual cooperation for reducing the cost of deployment of renewable energy. We will strengthen our cooperation with European Union in developing Smart Cities and upgrading urban infrastructure,	  	|  Positive  	|  17  	|
+|  538 	|   Clean Mobility powered by Clean Energy is our most powerful weapon in our fight against Climate Change. This means a pollution-free clean drive, leading to clean air and better living standards for our people. We should champion the idea of `clean kilometres,  	| Positive 	|   16   	|
+|   	|   	| 	|    	|
+|  7352 	|  Too many Republicans wrongly blame immigrants for our problems, and they stand in the way of action on climate change and gun violence. Meanwhile, many Democrats wrongly blame the private sector for our problems, and they stand in the way of action on education reform and deficit reduction 	| Negative	|   -18 	|
+|  2316 	|  We're saying simply that this city -- which suffered so deeply after Hurricane Sandy -- has literally experienced billions and billions of dollars of damage as a result of climate change that these specific companies aided and abetted, and they should pay damages for that, very much the same way that tobacco companies were forced to pay damages for the horrible impact that they had knowingly on public health for so many years.  	|  Negative	|   -17 	|
+|  4422 	|  	President Trump is dangerously, dangerously wrong. Climate change is an existential threat to the entire country and the entire world and we must be extraordinarily aggressive. I have seven grandchildren, and I'm going to be damned if I'm going to leave them a planet that is unhealthy and uninhabitable.	 	| Negative	|  -17  	|
+
 
 <p align="center">
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive5.PNG?raw=true" height="150" />

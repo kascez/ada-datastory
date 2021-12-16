@@ -7,7 +7,7 @@
 ## Introduction
 *"We have a single mission: to protect and hand on the planet to the next generation."* - Francois Hollande
 
-Climate change is a global issue with global repercussions. We read, see, hear every day about the potential ecological disaster we are facing.
+Climate change is a global issue with global repercussions and it refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle. But since the 1800s, human activities have been the main driver of climate change, primarily due to burning fossil fuels like coal, oil and gas [1]. We read, see, hear every day about the potential ecological disaster we are facing and it is up to every human being to make the contribution to this battle.
 
 We will try, through this study, to conclude if we can **deny or not some prejudice about climate change**. For example, **what kind of people** are concerned about climate change. Is it always the youngest or, perhaps, politicians from a left-wing party?
 
@@ -253,9 +253,18 @@ Throughout this analysis, we proved the great media attention that climate chang
 
 ## References
 
+[1] Werndl, C. (2016). On defining climate and climate change. The British Journal for the Philosophy of Science, 67(2), 337-364. 
+
+[2] Vaucher, T., Spitz, A., Catasta, M., West, R. (2021). Quotebank: A Corpus of Quotations from a Decade of News.
+
+[3]
+
 ## The Team
 
 Segrt Jovana
+
 Bertringer Maxence
+ 
 Bonjour Jonatan
+ 
 Kascelan Zoran

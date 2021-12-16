@@ -250,3 +250,12 @@ This analysis prove the equality that political parties have when battling big t
 ## Is climate change receiving the attention it deserves?
 
 Throughout this analysis, we proved the great media attention that climate change holds down. No matter the age you are, the region you are from, or the political party you choose to be in, one thing is certain - **climate change is happening and it is our job to address it in a serious manner**. Even though a speaker from our dataset has different beliefs than the rest, we can see that his opinion about global warming does not vary much from other speakers. 
+
+## References
+
+## The Team
+
+Segrt Jovana
+Bertringer Maxence
+Bonjour Jonatan
+Kascelan Zoran

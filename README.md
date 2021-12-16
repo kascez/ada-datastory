@@ -99,6 +99,8 @@ This part of Europe has also been seen as less-developed that the rest. Their he
 
 > It became clear that the climate is a complicated system and that, so far, the evidence presented for the need to 'fight' global warming was rather unfounded.
 
+The countries of the Easter Europe, even facing with lower income and being dependent on the industries that affect the climate, still have they place in fighting the global warming. They show great initiative in facing this problem with taking care of the quality of life for all people on the plane on one side, and worrying about the economy on the other.
+
 **What are the beliefs in the land down under?**
 
 By looking at more than 10000 quotes by speakers from **Australia**, we can see that climate change is a burning topic for the Aussies. Some of the main statements that were extracted from their quotes are:

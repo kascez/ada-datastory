@@ -9,9 +9,9 @@
 
 <div style="text-align: justify">Climate change is a global issue with global repercussions. We read, see, hear every day about the potential ecological disaster we are facing.</div>
 
-We will try, through this study, to conclude if we can **deny or not some prejudice about climate change**. For example, **what kind of people** are concerned about climate change. Is it always the youngest or, perhaps, politicians from a left-wing party? 
+<div style="text-align: justify">We will try, through this study, to conclude if we can **deny or not some prejudice about climate change**. For example, **what kind of people** are concerned about climate change. Is it always the youngest or, perhaps, politicians from a left-wing party?</div>
 
-It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to **determine how different groups of people react to this threat**. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.
+<div style="text-align: justify">It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to **determine how different groups of people react to this threat**. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.</div>
 
 To understand who speaks and what is said about this topic in the media, we used **Quotebank**, an open corpus of quotations extracted from English news articles. Because of the size of the dataset, we were able to keep only quotations with **"climate change"** and **"global warming"** in them while still having enough quotes to work with (more than 100 000). This simple method allowed us to be sure that almost all the citations were about the right topic. This high number of quotes related to climate change and global warming in a data set of about 178 million quotes speakes about the importance of this topic and how it is necessary to address it in a suitable manner.
 

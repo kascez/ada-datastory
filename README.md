@@ -210,7 +210,7 @@ On the lefthand side it can be seen the sentiment score distribution before prop
 Secondly, having in mind the indisputable geographical, cultural and divelopmental 'distance',the second chosen pair was **Belgium and Indonesia**. First graph presented below is again showing the age distribution of the the speakers from these countries, followed by distribution of the sentiment scores before and after the matching was done, on the left and right side respectively.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI2.png" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/BI2.png?raw=true" height="230" />
 </p>
 
 <p align="center">

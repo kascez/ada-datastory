@@ -142,16 +142,6 @@ To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach 
 |  4422 	|  	President Trump is dangerously, dangerously wrong. Climate change is an existential threat to the entire country and the entire world and we must be extraordinarily aggressive. I have seven grandchildren, and I'm going to be damned if I'm going to leave them a planet that is unhealthy and uninhabitable.	 	| Negative	|  -17  	|
 
 
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/positive5.PNG?raw=true" height="150" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/negative5.PNG?raw=true" height="150" />
-</p>
-
-
 First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">

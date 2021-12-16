@@ -197,7 +197,7 @@ Firstly, we analysed the **sentiment score distributions** of countries in menti
 Considering the first pair, we have opted for **Germany and France**, since they are the two most populated European countries, are similar when it comes to the development level. On the graph below, showing age distribution with respect to the number of quotes of speakers cominig from these two countries, it could be seen that there is a difference between them when it comes to the number of quotes stated by people of different age.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF2.png" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/GF2.png?raw=true" height="230" />
 </p>
 
 On the lefthand side it can be seen the sentiment score distribution before propensity score matching and of the righthand side is the distribution after the matching was performed.
@@ -221,7 +221,7 @@ Secondly, having in mind the indisputable geographical, cultural and divelopment
 Motivated with analysing different cultures and the effect the environment has on the individual opinion, the last pair chosen of this part of the analysis was **Chile-Finland**. Following are the results.
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC2.png" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/FC2.png?raw=true" height="300" />
 </p>
 
 <p align="center">

@@ -125,7 +125,7 @@ Even though climate change and global warming was not so popular when our grandp
 
 We can see that the elderly have strong opinions about climate change and see the urge to fight it, as they want to leave the planet Earth a nice place to live for the next generations.
 
-## Sentiment Analysis : How climate change is being perceived by the world 
+## How climate change is being perceived by the world ? 
 
 Before going much deeper into climate denial, we can run a sentiment analysis so that we can figure out the **global perception of climate change among people**.
 

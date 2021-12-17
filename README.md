@@ -145,13 +145,15 @@ To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach 
 First of all, let's focus on the evolution of the mentality through the years. 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/yearsEvolution.PNG?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_1.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_2.png?raw=true" height="230" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_3.png?raw=true" height="230" />
 </p>
 
 As you can see in the photos below, no truth stands out of the analysis. In fact, what can be deduced is that we already knew that climate change was a real issue. Things started to be done before and then we can find some pretty good results leading to a stable quantity of positive over negative through the years : 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture.PNG?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_4.png?raw=true" height="300" />
 </p>
 
 However, we can see that in 2019 we had a lot of quotes about climate change but can we really analyze those data. Indeed, we can't know if it comes from QuoteBank or if it is a general fact. It goes the same with 2020, which had a very low amount of quotes. 
@@ -161,8 +163,8 @@ What seems to be a good conclusion is that the ratio remains the same for each y
 The question that can be asked now is to know whether it is the **younger** or not that are **optimistic** (positive) about climate change. For this, we have done another bar plot that represents the quantity of negative or positive quote according to the age of the author by category. 
 
 <p align="center">
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture1.PNG?raw=true" height="300" />
-  <img src="https://github.com/kascez/ada-datastory/blob/main/images/Capture2.PNG?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_5.png?raw=true" height="300" />
+  <img src="https://github.com/kascez/ada-datastory/blob/main/images/sentiment_analysis_6.png?raw=true" height="300" />
 </p>
 
 Here, we can see quite a large difference within the categories. At first sight, we can say that the youth quantity (category 0-30yo) is not relevant for the simple fact that we are working on quotes of renowned people and few young people are really known by Wikipedia. Nonetheless, we can deduce something very interesting from those graphs: The 31-45 are not very represented in this sentiment analysis but can we infer that they are not aware of climate change and/or they do not care? Hell, No! To go deeper in this analysis, one can do real statistics on enough unbiased random people. However, it seems that inside the famous people family the 31-45 people's do not have a sharp opinion (3000 negative VS 4000 positive). 

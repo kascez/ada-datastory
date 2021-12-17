@@ -250,6 +250,16 @@ This analysis proves the equality that political parties have when battling big 
 
 ## Is climate change receiving the attention it deserves?
 
+By carefully choosing the methodology that we were using in our projects, we hoped to find some meaningful conclusions about the appearance of climate change in the media. To conclude all of our findings on the mentioned topic, we present the following results:
+
+- By summarizing opinions of people that are from different regions of the world, have different ages, and belong to different political parties we can observe that they have shown **great concernt** about climate change. Also, they are providing certain ways of fighting against global warming.
+
+- The propensity score matching based on the age of the speakers has shown us that age has no great influence on the sentiment score of the quote in question. By looking at the pairs of matched ages, the distribution of all quotes has not changed much.
+
+- The fasttext classifier had a hard time distinguishing between quotes that were stated by speakers from different groups of political parties, so we think that those speakers had pretty similar opinions about climate change.
+
+- By training models for detecting climate change denial, we can observe that there is a small percent of the speakers who believe climate change is not such a big problem.
+
 Throughout this analysis, we proved the great media attention that climate change holds down. No matter the age you are, the region you are from, or the political party you choose to be in, one thing is certain - **climate change is happening and it is our job to address it in a serious manner**. Even though a speaker from our dataset has different beliefs than the rest, we can see that his opinion about global warming does not vary much from other speakers. 
 
 ## References

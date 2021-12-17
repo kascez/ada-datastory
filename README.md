@@ -57,7 +57,7 @@ Thanks to Wikidata, we also have information about the **age** and the **politic
   <img src="https://github.com/kascez/ada-datastory/blob/main/images/party.png?raw=true" height="230" />
 </p>
 
-## General opinion about climate change
+## What do people around the globe think about climate change?
 
 Diving deeply into the analysis, we wanted to see if there is a **common opinion expressed by speakers from certain regions**.
 

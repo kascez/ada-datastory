@@ -59,7 +59,7 @@ Thanks to Wikidata, we also have information about the **age** and the **politic
 
 ## What do people around the globe think about climate change?
 
-Diving deeply into the analysis, we wanted to see if there is a **common opinion expressed by speakers from certain regions**.
+Diving deeply into the analysis, we wanted to see if there is a **common opinion expressed by speakers from certain regions**. For this part we used the summarization algorithms TextRank, LexRank, and Luhn Summarizer. Though we did not have large texts to be summarized, we used thousands of quotes, implemented the algorithms, and extracted the main ideas about climate change.
 
 **How do island countries feel about climate change?**
 
@@ -135,7 +135,7 @@ To do so, we will use the library **Afinn**. Afinn is a Wordlist-based approach 
 |-------------|-----------|-----------------|
 |    We discussed our ambitious national efforts and goals to increase the use of clean and renewable energy. We also agreed to further enhance our excellent and innovative partnership in this area. I asked him to lead international efforts in making renewable energy more accessible and affordable to the world. President and I expressed hope for a successful Paris Conference on climate change this year	  	|  Positive 	|   19    	|
 |  On Clean Energy and Climate Change, we are both committed to the 2015 Paris Agreement. Addressing climate change and promoting secure, affordable and sustainable supplies of energy are our shared priorities. We also reaffirmed our commitment to undertake mutual cooperation for reducing the cost of deployment of renewable energy. We will strengthen our cooperation with European Union in developing Smart Cities and upgrading urban infrastructure,	  	|  Positive  	|  17  	|
-|   Clean Mobility powered by Clean Energy is our most powerful weapon in our fight against Climate Change. This means a pollution-free clean drive, leading to clean air and better living standards for our people. We should champion the idea of `clean kilometres,  	| Positive 	|   16   	|
+|   Clean Mobility powered by Clean Energy is our most powerful weapon in our fight against Climate Change. This means a pollution-free clean drive, leading to clean air and better living standards for our people. We should champion the idea of clean kilometres,  	| Positive 	|   16   	|
 |   	| 	|    	|
 |  Too many Republicans wrongly blame immigrants for our problems, and they stand in the way of action on climate change and gun violence. Meanwhile, many Democrats wrongly blame the private sector for our problems, and they stand in the way of action on education reform and deficit reduction 	| Negative	|   -18 	|
 |  We're saying simply that this city -- which suffered so deeply after Hurricane Sandy -- has literally experienced billions and billions of dollars of damage as a result of climate change that these specific companies aided and abetted, and they should pay damages for that, very much the same way that tobacco companies were forced to pay damages for the horrible impact that they had knowingly on public health for so many years.  	|  Negative	|   -17 	|

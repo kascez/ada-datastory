@@ -274,10 +274,10 @@ Throughout this analysis, we proved the great media attention that climate chang
 
 ## The Team
 
-Segrt Jovana
+Segrt Jovana - jovana.segrt@epfl.ch
 
-Bertringer Maxence
+Bertringer Maxence - maxence.bertringer@epfl.ch
  
-Bonjour Jonatan
+Bonjour Jonatan - jonatan.bonjour@epfl.ch
  
-Kascelan Zoran
+Kascelan Zoran - zoran.kascelan@epfl.ch
